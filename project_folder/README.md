@@ -16,6 +16,7 @@ Python 3.8+ must be installed on your system.
 ### Setup Environment
 ```bash
 pip install -r requirements.txt
+```
 
 Running the Pipeline
 Execute the Jupyter notebooks in the notebooks/ directory in the following exact order. Each notebook must be run from start to finish using the "Kernel → Restart & Run All" command.
