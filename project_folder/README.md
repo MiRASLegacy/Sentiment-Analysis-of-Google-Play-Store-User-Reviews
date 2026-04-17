@@ -31,13 +31,17 @@ T4_Ensemble.ipynb
 
 4. Final Model Results
 Task,Model,Accuracy
+
 Task 2 (Supervised), | Logistic Regression, |  0.8512
+
 Task 2 (Supervised), | Decision Tree,       |  0.7723
+
 Task 4 (Ensemble),   | Random Forest,       |  0.8271
+
 Task 4 (Ensemble),   | Gradient Boosting,   |  0.8040
 
-5. Visualizations
+6. Visualizations
 Sentiment Distribution
 Top 10 Feature Importances (Random Forest)
-6. Academic Integrity Statement
+7. Academic Integrity Statement
 AI coding assistants were utilized strictly for syntax generation, boilerplate code structuring, and debugging purposes. All data analysis, model comparisons, and final conclusions represent original work.
